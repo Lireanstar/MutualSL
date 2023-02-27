@@ -47,11 +47,13 @@ pip install tqdm transformers sklearn pandas numpy accelerate sentencepiece pkus
 
 ## Data
 
-Download the **MedVidQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20MedVidCQA%20Dataset)
 
-Download the **TutorialVQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20TutorialVQA%20Dataset)
+##### Download the MedVidQA dataset from [here](https://pan.baidu.com/s/1lcBUb8JYWUVaZcRZq3RT5Q?pwd=8888 
+)  [Copyright belongs to [NIH](https://arxiv.org/abs/2201.12888)]
 
-Download the **VehicleVQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20VehicleVQA%20Dataset)
+Download the **TutorialVQA** dataset from [here ](mailto:libincn@hnu.edu.cn?subject=Get%20TutorialVQA%20Dataset) (Researchers should get in touch with us and sign a copyright agreement)
+
+Download the **VehicleVQA** dataset from [here](mailto:libincn@hnu.edu.cn?subject=Get%20VehicleVQA%20Dataset) (Researchers should get in touch with us and sign a copyright agreement)
 
 
 
